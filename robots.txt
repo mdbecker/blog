@@ -1,0 +1,4 @@
+Sitemap: http://beckerfuffle.com/blog/sitemapindex.xml
+
+User-Agent: *
+Host: beckerfuffle.com
