@@ -1,0 +1,11 @@
+# Nikola / build artifacts
+.doit.db*
+cache/
+output/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+all_files.txt
+
+# OS cruft
+.DS_Store
